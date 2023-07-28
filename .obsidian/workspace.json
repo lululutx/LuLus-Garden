@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电脑配置/mstsc远程配置.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电脑配置/mstsc远程配置.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电脑配置/mstsc远程配置.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电脑配置/mstsc远程配置.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,13 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "03526c928364568b",
+  "active": "cbce2d31d264d4be",
   "lastOpenFiles": [
+    "永无BUG.md",
+    "README.md",
+    "电脑配置/mstsc远程配置.md",
     "新建 文本文档.txt",
     "电脑配置/win11永久关闭系统更新.md",
     "电脑配置/跨域浏览器.md",
     "电脑配置/破解typora.md",
-    "电脑配置/mstsc远程配置.md",
     "_Assets/Pasted image 20230729001559.png",
     "_Assets/Pasted image 20230729001541.png",
     "_Assets/Pasted image 20230729001512.png",
@@ -168,8 +170,6 @@
     "电脑配置/改变文件夹位置到另一个盘.md",
     "电脑配置/多开微信.md",
     "Pasted image 20230728234115.png.md",
-    "_Assets",
-    "README.md",
-    "永无BUG.md"
+    "_Assets"
   ]
 }
