@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "232e70e81ea2ddea",
+        "id": "61c62882bcf171a0",
         "type": "tabs",
         "children": [
           {
-            "id": "844ef0cd74a3493f",
+            "id": "cbce2d31d264d4be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "深拷贝",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,8 +146,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "844ef0cd74a3493f",
+  "active": "cbce2d31d264d4be",
   "lastOpenFiles": [
-    "威斯顿/前端/构建树    浅拷贝.md"
+    "永无BUG.md",
+    "README.md",
+    "电脑配置/mstsc远程配置.md",
+    "新建 文本文档.txt",
+    "电脑配置/win11永久关闭系统更新.md",
+    "电脑配置/跨域浏览器.md",
+    "电脑配置/破解typora.md",
+    "_Assets/Pasted image 20230729001559.png",
+    "_Assets/Pasted image 20230729001541.png",
+    "_Assets/Pasted image 20230729001512.png",
+    "_Assets/Pasted image 20230729001433.png",
+    "_Assets/Pasted image 20230729001412.png",
+    "_Assets/Pasted image 20230729001223.png",
+    "_Assets/Pasted image 20230729001146.png",
+    "_Assets/Pasted image 20230729001133.png",
+    "_Assets/Pasted image 20230729001023.png",
+    "_Assets/Pasted image 20230729000918.png",
+    "电脑配置/看wifi密码.md",
+    "电脑配置/更改桌面路径.md",
+    "电脑配置/改变文件夹位置到另一个盘.md",
+    "电脑配置/多开微信.md",
+    "Pasted image 20230728234115.png.md",
+    "_Assets"
   ]
 }
