@@ -9,10 +9,10 @@
 本来本项目是在语雀上的，但是语雀功能的阉割以及各种缺点让我选择了另一条路：
 用Gihub做同步，Obsidian做编辑器，PicGo连接Gitee做图床。这样就实现了本地化、开源化、无障碍访问化。这一套工作流，我目前是比较满意的了。
 
-	感谢 vannvan 的 [语雀知识库导出工具](https://github.com/vannvan/yuque-tools)让我把本项目从语雀中导出。
+感谢 vannvan 的 [语雀知识库导出工具](https://github.com/vannvan/yuque-tools) 让我把本项目从语雀中导出。
  
 ### 重大更新
 
-2023-7-27：项目同步至GIthub
+2023-7-27：项目同步至Github
 
 
