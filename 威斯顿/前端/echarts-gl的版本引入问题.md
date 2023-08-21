@@ -4,4 +4,4 @@
 
 解决: echarts 4.9.0 对应的echarts-gl应该是1.1.2 
 
-cnpm i  echarts-gl@1.1.2 -S <br />———————————————— <br />版权声明：本文为CSDN博主「qq_39704803」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。 <br />原文链接：https://blog.csdn.net/qq_39704803/article/details/115467327 
+cnpm i  echarts-gl@1.1.2 -S ———————————————— 版权声明：本文为CSDN博主「qq_39704803」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。 原文链接：https://blog.csdn.net/qq_39704803/article/details/115467327 
