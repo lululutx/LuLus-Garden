@@ -1,4 +1,4 @@
-#vue
+#Vue
 
 vue.extend()方法其实是vue的一个构造器，继承自vue
 
