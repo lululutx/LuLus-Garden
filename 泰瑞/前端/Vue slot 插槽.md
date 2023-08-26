@@ -2,7 +2,6 @@
 
 from [Vue 插槽（slot）详细介绍（对比版本变化，避免踩坑）](https://blog.csdn.net/qq_41809113/article/details/121640035)
 
-[toc]
 
 ---
 
