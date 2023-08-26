@@ -153,15 +153,13 @@ Vue 实现了一套内容分发的 API，这套 API 的设计灵感源自  [Web
 
 如上面的例子，当组件渲染的时候，`<slot></slot>`  将会被替换为“验证插槽是否生效”（即指定内容）。插槽内可以包含任何模板代码，包括 HTML：
 
-```javascript
+```vue
 <template>
-  {" "}
   <div class="main">
-    {" "}
-    <p>我是A组件</p> <B>
-      {" "}
-      <span style="color:red">验证插槽是否生效</span> //内容为html{" "}
-    </B>{" "}
+    <p>我是A组件</p>
+    <B>
+      <span style="color:red">验证插槽是否生效</span> //内容为html
+    </B>
   </div>
 </template>
 ```
@@ -277,10 +275,8 @@ export default {
 
 ```vue
 <template>
-  {" "}
   <div>
-    {" "}
-    <slot></slot>{" "}
+    <slot></slot>
   </div>
 </template>
 ```
@@ -289,12 +285,10 @@ export default {
 
 ```vue
 <template>
-  {" "}
   <div>
-    {" "}
     <slot>
       <p>我是B组件</p>
-    </slot>{" "}
+    </slot>
   </div>
 </template>
 ```
@@ -311,7 +305,6 @@ export default {
 
 ```vue
 <B>
-  {" "}
   <p>我是插槽内容</p>
 </B>
 ```
@@ -367,19 +360,19 @@ export default {
 
 ```vue
 <template>
-  {" "}
   <div>
-    {" "}
-    <p>我是A组件</p> <B>
-      {" "}
+    <p>我是A组件</p> 
+    <B>
       <template slot="header">
-        {" "}
-        <p>我是header部分</p>{" "}
-      </template> <p>我是main（默认插槽）部分</p> <template slot="footer">
-        {" "}
-        <p>我是footer部分</p>{" "}
-      </template>{" "}
-    </B>{" "}
+        <p>我是header部分</p>
+      </template> 
+      
+      <p>我是main（默认插槽）部分</p> 
+      
+      <template slot="footer">
+        <p>我是footer部分</p>
+      </template>
+    </B>
   </div>
 </template>
 ```
@@ -501,19 +494,19 @@ export default {
 
 ```vue
 <template>
-  {" "}
   <div>
-    {" "}
-    <p>我是A组件</p> <B>
-      {" "}
+    <p>我是A组件</p> 
+    <B>
       <template v-slot:header>
-        {" "}
-        <p>我是header部分</p>{" "}
-      </template> <p>我是main（默认插槽）部分</p> <template v-slot:footer>
-        {" "}
-        <p>我是footer部分</p>{" "}
-      </template>{" "}
-    </B>{" "}
+        <p>我是header部分</p>
+      </template> 
+      
+      <p>我是main（默认插槽）部分</p> 
+      
+      <template v-slot:footer>
+        <p>我是footer部分</p>
+      </template>
+    </B>
   </div>
 </template>
 ```
