@@ -1,4 +1,4 @@
-```vue
+```js
  
       let userSearch = document.getElementsByClassName("user_search")[0]; 
       let mainBody = document.getElementsByClassName("main_body")[0]; 

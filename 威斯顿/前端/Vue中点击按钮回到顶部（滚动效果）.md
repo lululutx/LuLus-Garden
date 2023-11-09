@@ -1,5 +1,4 @@
-```vue
- 
+```js
 
 document.getElementById("home").scrollIntoView(); 
 

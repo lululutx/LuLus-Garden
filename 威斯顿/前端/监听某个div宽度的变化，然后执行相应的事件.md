@@ -1,4 +1,4 @@
-```vue
+```js
  
  
 import elementResizeDetectorMaker from "element-resize-detector"; 
@@ -39,7 +39,7 @@ observer: {}, 
     }, 
 
 ```
-```vue
+```js
  
   mounted() { 
     this.watchSize(); 

@@ -1,4 +1,4 @@
-```vue
+```js
 // 首先在/router/index.js配置子路由 
  
 { 

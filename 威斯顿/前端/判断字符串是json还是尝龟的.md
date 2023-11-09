@@ -1,4 +1,4 @@
-```vue
+```js
     isJson(str) { 
       if (typeof str === "string") { 
         try { 

@@ -1,5 +1,7 @@
+#echarts
+
 在适当的时候添加窗口抖动以重画echarts
-```vue
+```js
       this.$nextTick(() => [
         window.dispatchEvent(new Event('resize'))//初始化echarts
       ])
